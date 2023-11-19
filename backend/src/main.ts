@@ -25,7 +25,11 @@ interface APIResponse {
   }
 }
 
-app.get('/', async (req: Request, res: Response) => {
+app.get('/', (req, res) => {
+  res.send({ message: 'Hello API' });
+});
+
+app.get('/api', async (req: Request, res: Response) => {
   try {
     const response = await fetch('https://reference.intellisense.io/thickenernn/v1/referencia');
     if (!response.ok) {
@@ -42,9 +46,13 @@ app.get('/', async (req: Request, res: Response) => {
         return obj;
       }, {});
 
-    console.log('Received tk1 objects:', tk1Objects);
-
-    res.status(200).json({ data: tk1Objects }); // Sending the tk1 objects back in the response
+    const tk1Array = Object.entries(tk1Objects).map(([label, data]) => ({
+      label,
+      times: data.times,
+      values: data.values
+    }));
+    console.error('Error fetching or parsing data:', tk1Array);
+    res.status(200).json(tk1Array); // Sending the tk1 objects back in the response
   } catch (error) {
     console.error('Error fetching or parsing data:', error);
     res.status(500).json({ error: 'Internal Server Error' });
