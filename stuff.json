@@ -1,0 +1,2570 @@
+{
+    "current": {
+        "data": {
+            "TK1": {
+                "time": "2023-11-19T11:24:50.234Z",
+                "message": "Results from optimize for referencia_tk1_v1-default at 2023-11-19T11:24:50.234Z",
+                "Data_Quality_Status_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Badness_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        44.262567759852615,
+                        43.53080474812542,
+                        43.64022059192004,
+                        43.7470010498156,
+                        43.93813962998116,
+                        43.997997258301446,
+                        44.2771858889763
+                    ]
+                },
+                "TK1_Bed_Pressure": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        43.85108517044897,
+                        43.66103078466953,
+                        43.67353601073575,
+                        43.75900080554841,
+                        43.87313519635285,
+                        43.90759203834095,
+                        43.97809057035724
+                    ]
+                },
+                "TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        4.55563138248437,
+                        4.819807767868042,
+                        5.407912731170654,
+                        5.731370449066162,
+                        5.731370449066162,
+                        5.731370449066162,
+                        5.731370449066162
+                    ],
+                    "direct": 4.819807767868042,
+                    "min": null,
+                    "max": null
+                },
+                "TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        45.637602088242424,
+                        45.631629943847656,
+                        45.631629943847656,
+                        45.631629943847656,
+                        45.631629943847656,
+                        45.631629943847656,
+                        45.631629943847656
+                    ]
+                },
+                "TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        1.8485184412961202,
+                        1.7165751576423631,
+                        1.4228776812553412,
+                        1.261344075202942,
+                        1.261344075202942,
+                        1.261344075202942,
+                        1.261344075202942
+                    ],
+                    "direct": 1.7165751576423631,
+                    "min": null,
+                    "max": null
+                },
+                "TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        8.876916352438702,
+                        8.876916352438691,
+                        8.876916352438691,
+                        8.876916352438691,
+                        8.876916352438691,
+                        8.876916352438691,
+                        8.876916352438691
+                    ]
+                },
+                "Feed Solids Mass Flow": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        4.34451605745733,
+                        4.34451605745733,
+                        4.34451605745733,
+                        4.34451605745733,
+                        4.34451605745733,
+                        4.34451605745733
+                    ]
+                },
+                "Underflow Solids Mass Flow": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        3.1396386431162635,
+                        3.5360481247644038,
+                        3.7611793771270072,
+                        3.7858259953636924,
+                        3.793600525932981,
+                        3.8300343993015873
+                    ]
+                },
+                "Flocculant Flow Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        0.10299450945854184,
+                        0.0853726608753203,
+                        0.07568064451217645,
+                        0.07568064451217645,
+                        0.07568064451217645,
+                        0.07568064451217645
+                    ],
+                    "direct": 0.1,
+                    "min": null,
+                    "max": null
+                },
+                "Flocculant Dose": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        71.12033956576553,
+                        58.952003004876204,
+                        52.259418143338465,
+                        52.259418143338465,
+                        52.259418143338465,
+                        52.259418143338465
+                    ]
+                },
+                "Uncertainty_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        1.0699436381845184,
+                        1.1360818383706628,
+                        0.9822310554420355,
+                        0.9015772780367993,
+                        0.9263338928537083,
+                        1.0675248395798709
+                    ]
+                },
+                "Uncertainty_TK1_Bed_Pressure": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        0.8146949340292092,
+                        0.7306643567677635,
+                        0.8527338822290859,
+                        0.7816039575332914,
+                        0.8232266234751611,
+                        0.720391992256037
+                    ]
+                },
+                "TK1 Expected Return": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        37.63214267086342
+                    ]
+                },
+                "TK1 Expected Return (Uncertainty)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.5923291660983508
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Max Mean) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.11618572607529387
+                    ]
+                },
+                "TK1 Partial Reward (Mass Balance) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.00406607602319449
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Power Max Constraint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Bed Pressure) (Power Max Constraint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Flocculant Dosage) (Setpoint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.005111520849998247
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Max Mean) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.07579376621693967
+                    ]
+                },
+                "TK1 Partial Reward (Mass Balance) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.0011986070822595368
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Power Max Constraint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Bed Pressure) (Power Max Constraint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Flocculant Dosage) (Setpoint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.005111520849998247
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Min": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5.06
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Max": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        10.65
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Points": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        11
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Change": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.07
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Min": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.67
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Max": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2.06
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Points": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        9
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Change": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.033
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Maximize": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.3
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Width": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1.5
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Setpoint": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Softlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        55.5
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Hardlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        56
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Softlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        47.281
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Hardlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        47.48
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.003
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Setpoint": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        45
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Width": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        3
+                    ]
+                },
+                "Uncertainty_Status_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Uncertainty_Status_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Surface_Quality_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.2883080479360338
+                    ]
+                },
+                "Surface_Quality_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.3268393837938466
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Underflow_Percent_Solids_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.01236581962158037
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Underflow_Percent_Solids_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        -0.0184093019597269
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Bed_Pressure_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.00842957431086302
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Bed_Pressure_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        -0.0065472860058743265
+                    ]
+                },
+                "Optimizer Details": {
+                    "Expected Return": 37.63214267086342,
+                    "Expected Return Uncertainty": 0.5923291660983508,
+                    "Optimization Config": {
+                        "limits": {
+                            "TK1_Underflow_Flow_Rate": {
+                                "min": 5.06,
+                                "max": 10.65,
+                                "points": 11,
+                                "change": 0.07
+                            },
+                            "TK1_Flocculant_Flow_Rate": {
+                                "min": 0.67,
+                                "max": 2.06,
+                                "points": 9,
+                                "change": 0.033
+                            }
+                        },
+                        "rewards": {
+                            "Underflow Solids | Max Mean": {
+                                "function": "MeanReward",
+                                "field": "TK1_Underflow_Percent_Solids",
+                                "maximize": true,
+                                "weight": 1,
+                                "power": 1
+                            },
+                            "Mass Balance": {
+                                "function": "MassBalanceReward",
+                                "weight": 0.3,
+                                "width": 1.5,
+                                "setpoint": 0,
+                                "uffField": "TK1_Underflow_Flow_Rate",
+                                "ufsField": "TK1_Underflow_Percent_Solids",
+                                "fsmField": "Feed Solids Mass Flow",
+                                "loss": "mse"
+                            },
+                            "Underflow Solids | Power Max Constraint": {
+                                "function": "PowerConstraint",
+                                "field": "TK1_Underflow_Percent_Solids",
+                                "weight": 5,
+                                "softLimit": 55.5,
+                                "hardLimit": 56,
+                                "power": 2
+                            },
+                            "Bed Pressure | Power Max Constraint": {
+                                "function": "PowerConstraint",
+                                "field": "TK1_Bed_Pressure",
+                                "weight": 5,
+                                "softLimit": 47.281,
+                                "hardLimit": 47.48,
+                                "power": 2
+                            },
+                            "Flocculant Dosage | Setpoint": {
+                                "function": "DosageReward",
+                                "weight": 0.003,
+                                "setpoint": 45,
+                                "width": 3,
+                                "loss": "mse"
+                            }
+                        }
+                    }
+                },
+                "Partial Rewards": {
+                    "rewards": {
+                        "Underflow Solids | Max Mean": [
+                            37.706712495851065,
+                            37.694202572171,
+                            37.76675385825011,
+                            37.70592037253625,
+                            37.65056813217482,
+                            37.739750045350526,
+                            37.72636189839176,
+                            37.705387947253804,
+                            37.70742878577031,
+                            37.72163491829771,
+                            37.71153099271418,
+                            37.69875353536636
+                        ],
+                        "Mass Balance": [
+                            -0.09153492939123475,
+                            -0.09071689456196998,
+                            -0.08796708200051301,
+                            -0.09132067044585193,
+                            -0.0920331580237075,
+                            -0.08874269633276277,
+                            -0.09083455094144796,
+                            -0.09069381947370907,
+                            -0.08975620437127806,
+                            -0.09098158967311232,
+                            -0.09056883675785903,
+                            -0.09001782613410429
+                        ],
+                        "Underflow Solids | Power Max Constraint": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "Bed Pressure | Power Max Constraint": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "Flocculant Dosage | Setpoint": [
+                            -0.1892058870047858,
+                            -0.1923686956819982,
+                            -0.19431740785478405,
+                            -0.1892058870047858,
+                            -0.1923686956819982,
+                            -0.19431740785478405,
+                            -0.1892058870047858,
+                            -0.1923686956819982,
+                            -0.19431740785478405,
+                            -0.1892058870047858,
+                            -0.1923686956819982,
+                            -0.19431740785478405
+                        ]
+                    },
+                    "controls": {
+                        "TK1_Underflow_Flow_Rate": [
+                            5.283790111541748,
+                            5.283790111541748,
+                            5.731370449066162,
+                            5.283790111541748,
+                            5.283790111541748,
+                            5.731370449066162,
+                            5.283790111541748,
+                            5.283790111541748,
+                            5.731370449066162,
+                            5.283790111541748,
+                            5.283790111541748,
+                            5.731370449066162
+                        ],
+                        "TK1_Feed_Flow_Rate": [
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656,
+                            45.631629943847656
+                        ],
+                        "TK1_Flocculant_Flow_Rate": [
+                            1.261344075202942,
+                            1.8421847820281982,
+                            1.5517644882202148,
+                            1.261344075202942,
+                            1.8421847820281982,
+                            1.5517644882202148,
+                            1.261344075202942,
+                            1.8421847820281982,
+                            1.5517644882202148,
+                            1.261344075202942,
+                            1.8421847820281982,
+                            1.5517644882202148
+                        ]
+                    },
+                    "targets": {
+                        "TK1_Underflow_Percent_Solids": [
+                            44.629538474561805,
+                            44.62720184836201,
+                            44.14372243304079,
+                            44.36030596312091,
+                            44.528575680961836,
+                            44.24486550205956,
+                            43.74837095041942,
+                            43.74572138321072,
+                            44.40752421435799,
+                            43.997649594214124,
+                            44.20978561737458,
+                            45.013524581670154
+                        ],
+                        "TK1_Bed_Pressure": [
+                            44.19217289087708,
+                            44.01083058577595,
+                            43.29636927820906,
+                            43.617363012205516,
+                            44.118869202620516,
+                            43.76175784685946,
+                            44.90879320167848,
+                            43.50831181702455,
+                            43.57028859451117,
+                            44.01043777521441,
+                            45.064332217448566,
+                            44.54404444471804
+                        ]
+                    }
+                }
+            },
+            "HDT1": {
+                "time": "2023-11-19T11:24:50.234Z",
+                "error": "Data quality error",
+                "Data_Quality_Status_HDT1 Bed Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Clear Water Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Feed Percent Solids (Online Analysis)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Feed Solids Mass Flow (Distribution Split)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Flocculant Dilution Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Flocculant Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Rake Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Rake Torque": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Underflow Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Underflow Percent Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Badness_HDT1 Bed Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Clear Water Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Feed Percent Solids (Online Analysis)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Feed Solids Mass Flow (Distribution Split)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Flocculant Dilution Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Flocculant Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Rake Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Rake Torque": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Underflow Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Underflow Percent Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "interval": 300000,
+            "time": "2023-11-19T11:24:50.234Z",
+            "TK1": {
+                "time": "2023-11-19T11:24:50.234Z",
+                "asset": "TK1",
+                "company": "referencia",
+                "task": "optimize",
+                "version": "v1",
+                "opt_details": true,
+                "partial_rewards": true
+            },
+            "HDT1": {
+                "time": "2023-11-19T11:24:50.234Z",
+                "asset": "HDT1",
+                "company": "referencia",
+                "task": "optimize",
+                "version": "v1",
+                "opt_details": true,
+                "partial_rewards": true,
+                "optiConfig": {
+                    "rewards": {
+                        "Flocculant Dilution Ratio | Setpoint": {
+                            "function": "RatioReward",
+                            "setpoint": 8,
+                            "weight": 0,
+                            "width": 1
+                        },
+                        "Flocculant Dosage | Setpoint": {
+                            "function": "DosageReward",
+                            "setpoint": 12,
+                            "weight": 0
+                        },
+                        "Underflow Percent Solids | Max Mean": {
+                            "function": "MeanReward",
+                            "field": "Underflow Percent Solids",
+                            "maximize": true,
+                            "weight": 1,
+                            "power": 1
+                        },
+                        "Underflow Percent Solids | Regressed Variance": {
+                            "function": "RegressedVarianceReward",
+                            "field": "Underflow Percent Solids",
+                            "weight": 100
+                        },
+                        "Clear Water Height | Max Mean": {
+                            "function": "MeanReward",
+                            "field": "Clear Water Height",
+                            "maximize": true,
+                            "weight": 0.5,
+                            "power": 0.8
+                        },
+                        "Flocculant Flow Rate | Min Mean": {
+                            "function": "MeanReward",
+                            "field": "Flocculant Flow Rate",
+                            "maximize": false,
+                            "weight": 0,
+                            "power": 1
+                        },
+                        "Rake Torque | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Rake Torque",
+                            "maximum": 30,
+                            "minimum": 28,
+                            "weight": 0,
+                            "width": 5
+                        },
+                        "Bed Pressure | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Bed Pressure",
+                            "maximum": 132,
+                            "minimum": 128,
+                            "weight": 0,
+                            "width": 5
+                        },
+                        "Clear Water Height | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Clear Water Height",
+                            "maximum": 4,
+                            "minimum": 3.5,
+                            "weight": 0,
+                            "width": 1
+                        },
+                        "Underflow Percent Solids | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Underflow Percent Solids",
+                            "maximum": 67,
+                            "minimum": 64,
+                            "weight": 0,
+                            "width": 4
+                        },
+                        "Underflow Percent Solids | Min Variance": {
+                            "function": "VarianceReward",
+                            "field": "Underflow Percent Solids",
+                            "maximize": false,
+                            "weight": 0
+                        },
+                        "Underflow Flow Rate | Control Power Min Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Flow Rate",
+                            "weight": 0,
+                            "softLimit": 800,
+                            "hardLimit": 600,
+                            "power": 2
+                        },
+                        "Underflow Flow Rate | Control Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Flow Rate",
+                            "weight": 0,
+                            "softLimit": 1500,
+                            "hardLimit": 1700,
+                            "power": 2
+                        },
+                        "Flocculant Flow Rate | Control Power Min Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Flocculant Flow Rate",
+                            "weight": 0,
+                            "softLimit": 4,
+                            "hardLimit": 2,
+                            "power": 2
+                        },
+                        "Flocculant Flow Rate | Control Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Flocculant Flow Rate",
+                            "weight": 0,
+                            "softLimit": 10,
+                            "hardLimit": 12,
+                            "power": 2
+                        },
+                        "Mass Balance": {
+                            "function": "MassBalanceReward",
+                            "width": 200,
+                            "weight": 0
+                        },
+                        "Clear Water Height | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Clear Water Height",
+                            "weight": 1,
+                            "softLimit": 3.3,
+                            "hardLimit": 3,
+                            "power": 2
+                        },
+                        "Bed Pressure | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Bed Pressure",
+                            "weight": 1,
+                            "softLimit": 127,
+                            "hardLimit": 129,
+                            "power": 2
+                        },
+                        "Underflow Percent Solids | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Percent Solids",
+                            "weight": 1,
+                            "softLimit": 70,
+                            "hardLimit": 71,
+                            "power": 2
+                        },
+                        "Rake Torque | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Rake Torque",
+                            "weight": 1,
+                            "softLimit": 33,
+                            "hardLimit": 35,
+                            "power": 2
+                        }
+                    },
+                    "limits": {
+                        "Flocculant Dilution Flow Rate": {
+                            "max": 120,
+                            "min": 20,
+                            "points": 0,
+                            "change": 3
+                        },
+                        "Underflow Flow Rate": {
+                            "max": 1750,
+                            "min": 600,
+                            "points": 7,
+                            "change": 20
+                        },
+                        "Flocculant Dose": {
+                            "max": 20,
+                            "min": 8,
+                            "points": 7,
+                            "change": 0.5
+                        },
+                        "Flocculant Flow Rate": {
+                            "max": 12,
+                            "min": 2,
+                            "points": 0,
+                            "change": 0.3
+                        }
+                    }
+                }
+            }
+        },
+        "err": null
+    },
+    "previous": {
+        "data": {
+            "TK1": {
+                "time": "2023-11-19T11:19:50.233Z",
+                "message": "Results from optimize for referencia_tk1_v1-default at 2023-11-19T11:19:50.233Z",
+                "Data_Quality_Status_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Quality_Status_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Data_Badness_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "Data_Badness_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.013769470404984427
+                    ]
+                },
+                "TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        46.90115503482248,
+                        46.74443008712625,
+                        46.73075398195059,
+                        46.751469721868595,
+                        46.802778526672,
+                        46.834718738407695,
+                        46.86329740469351
+                    ]
+                },
+                "TK1_Bed_Pressure": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        43.885251992539004,
+                        43.68247454600032,
+                        43.736327192175615,
+                        43.723917544193284,
+                        43.73842606920684,
+                        43.711005063775666,
+                        43.711104843477706
+                    ]
+                },
+                "TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        4.503041501825338,
+                        4.771573209762565,
+                        5.366066932678223,
+                        5.693038463592529,
+                        5.693038463592529,
+                        5.693038463592529,
+                        5.693038463592529
+                    ],
+                    "direct": 4.771573209762565,
+                    "min": null,
+                    "max": null
+                },
+                "TK1_Feed_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        45.37556005106225,
+                        45.369140625,
+                        45.369140625,
+                        45.369140625,
+                        45.369140625,
+                        45.369140625,
+                        45.369140625
+                    ]
+                },
+                "TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        1.8631184649294754,
+                        1.7307810306549056,
+                        1.436480319499967,
+                        1.274614930152893,
+                        1.274614930152893,
+                        1.274614930152893,
+                        1.274614930152893
+                    ],
+                    "direct": 1.7307810306549056,
+                    "min": null,
+                    "max": null
+                },
+                "TK1_Feed_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        8.900518673219949,
+                        8.900518673219949,
+                        8.900518673219949,
+                        8.900518673219949,
+                        8.900518673219949,
+                        8.900518673219949,
+                        8.900518673219949
+                    ]
+                },
+                "Feed Solids Mass Flow": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        4.331845286477061,
+                        4.331845286477061,
+                        4.331845286477061,
+                        4.331845286477061,
+                        4.331845286477061,
+                        4.331845286477061
+                    ]
+                },
+                "Underflow Solids Mass Flow": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        3.464350950427301,
+                        3.894232337671549,
+                        4.134331385459239,
+                        4.141383078242478,
+                        4.145812202028352,
+                        4.149711957803952
+                    ]
+                },
+                "Flocculant Flow Rate": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        0.10384686183929422,
+                        0.0861888191699982,
+                        0.07647689580917372,
+                        0.07647689580917372,
+                        0.07647689580917372,
+                        0.07647689580917372
+                    ],
+                    "direct": 0.1,
+                    "min": null,
+                    "max": null
+                },
+                "Flocculant Dose": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        71.91866121621999,
+                        59.68966588615445,
+                        52.96371852892058,
+                        52.96371852892058,
+                        52.96371852892058,
+                        52.96371852892058
+                    ]
+                },
+                "Uncertainty_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        0.6235459954579151,
+                        0.6751580947130644,
+                        0.6107990988029297,
+                        0.609767730790829,
+                        0.6760464136775599,
+                        0.6093610107045162
+                    ]
+                },
+                "Uncertainty_TK1_Bed_Pressure": {
+                    "times": [
+                        0,
+                        5,
+                        15,
+                        25,
+                        35,
+                        45,
+                        55
+                    ],
+                    "values": [
+                        null,
+                        0.843053633134778,
+                        0.8835831929542544,
+                        0.9297666107656428,
+                        0.9338890337355575,
+                        0.9044905740430932,
+                        0.8381560638340244
+                    ]
+                },
+                "TK1 Expected Return": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        40.215912356060706
+                    ]
+                },
+                "TK1 Expected Return (Uncertainty)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.3612781003722557
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Max Mean) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.04552729611166484
+                    ]
+                },
+                "TK1 Partial Reward (Mass Balance) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.0014934029475856328
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Power Max Constraint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Bed Pressure) (Power Max Constraint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Flocculant Dosage) (Setpoint) (Maximum)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.005156086916625557
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Max Mean) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.03336572251722458
+                    ]
+                },
+                "TK1 Partial Reward (Mass Balance) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.00048571891860680477
+                    ]
+                },
+                "TK1 Partial Reward (Underflow Solids) (Power Max Constraint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Bed Pressure) (Power Max Constraint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Partial Reward (Flocculant Dosage) (Setpoint) (Optimal)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.005156086916625557
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Min": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5.06
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Max": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        10.65
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Points": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        11
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Underflow_Flow_Rate Change": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.07
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Min": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.67
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Max": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2.06
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Points": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        9
+                    ]
+                },
+                "TK1 Opticonfig Limit TK1_Flocculant_Flow_Rate Change": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.033
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Maximize": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Max Mean Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.3
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Width": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1.5
+                    ]
+                },
+                "TK1 Opticonfig Reward Mass Balance Setpoint": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Softlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        55.5
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Hardlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        56
+                    ]
+                },
+                "TK1 Opticonfig Reward Underflow Solids Power Max Constraint Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        5
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Softlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        47.281
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Hardlimit": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        47.48
+                    ]
+                },
+                "TK1 Opticonfig Reward Bed Pressure Power Max Constraint Power": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Weight": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.003
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Setpoint": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        45
+                    ]
+                },
+                "TK1 Opticonfig Reward Flocculant Dosage Setpoint Width": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        3
+                    ]
+                },
+                "Uncertainty_Status_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Uncertainty_Status_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0
+                    ]
+                },
+                "Surface_Quality_TK1_Underflow_Percent_Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.09846966437328963
+                    ]
+                },
+                "Surface_Quality_TK1_Bed_Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.1530408655741441
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Underflow_Percent_Solids_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.007042504636436128
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Underflow_Percent_Solids_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.022813208145431186
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Bed_Pressure_TK1_Underflow_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.0023545379301463778
+                    ]
+                },
+                "Surface_Sensitivity_TK1_Bed_Pressure_TK1_Flocculant_Flow_Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        0.02270299424357232
+                    ]
+                },
+                "Optimizer Details": {
+                    "Expected Return": 40.215912356060706,
+                    "Expected Return Uncertainty": 0.3612781003722557,
+                    "Optimization Config": {
+                        "limits": {
+                            "TK1_Underflow_Flow_Rate": {
+                                "min": 5.06,
+                                "max": 10.65,
+                                "points": 11,
+                                "change": 0.07
+                            },
+                            "TK1_Flocculant_Flow_Rate": {
+                                "min": 0.67,
+                                "max": 2.06,
+                                "points": 9,
+                                "change": 0.033
+                            }
+                        },
+                        "rewards": {
+                            "Underflow Solids | Max Mean": {
+                                "function": "MeanReward",
+                                "field": "TK1_Underflow_Percent_Solids",
+                                "maximize": true,
+                                "weight": 1,
+                                "power": 1
+                            },
+                            "Mass Balance": {
+                                "function": "MassBalanceReward",
+                                "weight": 0.3,
+                                "width": 1.5,
+                                "setpoint": 0,
+                                "uffField": "TK1_Underflow_Flow_Rate",
+                                "ufsField": "TK1_Underflow_Percent_Solids",
+                                "fsmField": "Feed Solids Mass Flow",
+                                "loss": "mse"
+                            },
+                            "Underflow Solids | Power Max Constraint": {
+                                "function": "PowerConstraint",
+                                "field": "TK1_Underflow_Percent_Solids",
+                                "weight": 5,
+                                "softLimit": 55.5,
+                                "hardLimit": 56,
+                                "power": 2
+                            },
+                            "Bed Pressure | Power Max Constraint": {
+                                "function": "PowerConstraint",
+                                "field": "TK1_Bed_Pressure",
+                                "weight": 5,
+                                "softLimit": 47.281,
+                                "hardLimit": 47.48,
+                                "power": 2
+                            },
+                            "Flocculant Dosage | Setpoint": {
+                                "function": "DosageReward",
+                                "weight": 0.003,
+                                "setpoint": 45,
+                                "width": 3,
+                                "loss": "mse"
+                            }
+                        }
+                    }
+                },
+                "Partial Rewards": {
+                    "rewards": {
+                        "Underflow Solids | Max Mean": [
+                            40.308019289916174,
+                            40.287156702615825,
+                            40.28437523350951,
+                            40.27193703594624,
+                            40.26804935758661,
+                            40.29323133715427,
+                            40.30141508010384,
+                            40.31357665369828,
+                            40.28237820636299,
+                            40.27910165034643,
+                            40.30769791288824,
+                            40.3064401703045
+                        ],
+                        "Mass Balance": [
+                            -0.03529750970762936,
+                            -0.035374851844204976,
+                            -0.03496016578187293,
+                            -0.03585023571172799,
+                            -0.03536758277640027,
+                            -0.03459412055358327,
+                            -0.035364516793121185,
+                            -0.03469511376790051,
+                            -0.034872666115063435,
+                            -0.035597082021617245,
+                            -0.03488149526598525,
+                            -0.03435683276414236
+                        ],
+                        "Underflow Solids | Power Max Constraint": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "Bed Pressure | Power Max Constraint": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "Flocculant Dosage | Setpoint": [
+                            -0.19665106810062455,
+                            -0.1998195927939574,
+                            -0.2018071550172501,
+                            -0.19665106810062455,
+                            -0.1998195927939574,
+                            -0.2018071550172501,
+                            -0.19665106810062455,
+                            -0.1998195927939574,
+                            -0.2018071550172501,
+                            -0.19665106810062455,
+                            -0.1998195927939574,
+                            -0.2018071550172501
+                        ]
+                    },
+                    "controls": {
+                        "TK1_Underflow_Flow_Rate": [
+                            5.271012783050537,
+                            5.271012783050537,
+                            5.693038463592529,
+                            5.271012783050537,
+                            5.271012783050537,
+                            5.693038463592529,
+                            5.271012783050537,
+                            5.271012783050537,
+                            5.693038463592529,
+                            5.271012783050537,
+                            5.271012783050537,
+                            5.693038463592529
+                        ],
+                        "TK1_Feed_Flow_Rate": [
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625,
+                            45.369140625
+                        ],
+                        "TK1_Flocculant_Flow_Rate": [
+                            1.274614930152893,
+                            1.8458040952682495,
+                            1.5602095127105713,
+                            1.274614930152893,
+                            1.8458040952682495,
+                            1.5602095127105713,
+                            1.274614930152893,
+                            1.8458040952682495,
+                            1.5602095127105713,
+                            1.274614930152893,
+                            1.8458040952682495,
+                            1.5602095127105713
+                        ]
+                    },
+                    "targets": {
+                        "TK1_Underflow_Percent_Solids": [
+                            47.06574250339004,
+                            47.39582572533442,
+                            47.16174879285672,
+                            46.952576080326715,
+                            47.34733056779264,
+                            46.5301356750562,
+                            46.90185663438321,
+                            46.39376454244737,
+                            46.64836799787046,
+                            46.67927587071199,
+                            46.585604335148474,
+                            46.619839011638476
+                        ],
+                        "TK1_Bed_Pressure": [
+                            44.35601213929779,
+                            44.31862821267112,
+                            44.297865701242316,
+                            43.21040428715647,
+                            43.690851757882186,
+                            43.34983225048789,
+                            43.76042927424911,
+                            43.2834280615166,
+                            43.11548554306717,
+                            43.73568395469713,
+                            44.19458562063726,
+                            43.456197203369534
+                        ]
+                    }
+                }
+            },
+            "HDT1": {
+                "time": "2023-11-19T11:19:50.233Z",
+                "error": "Data quality error",
+                "Data_Quality_Status_HDT1 Bed Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Clear Water Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Feed Percent Solids (Online Analysis)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Feed Solids Mass Flow (Distribution Split)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Flocculant Dilution Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Flocculant Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Rake Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Rake Torque": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Underflow Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Quality_Status_HDT1 Underflow Percent Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        2
+                    ]
+                },
+                "Data_Badness_HDT1 Bed Pressure": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Clear Water Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Feed Percent Solids (Online Analysis)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Feed Solids Mass Flow (Distribution Split)": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Flocculant Dilution Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Flocculant Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Rake Height": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Rake Torque": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Underflow Flow Rate": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                },
+                "Data_Badness_HDT1 Underflow Percent Solids": {
+                    "times": [
+                        0
+                    ],
+                    "values": [
+                        1
+                    ]
+                }
+            }
+        },
+        "metadata": {
+            "interval": 300000,
+            "time": "2023-11-19T11:19:50.233Z",
+            "TK1": {
+                "time": "2023-11-19T11:19:50.233Z",
+                "asset": "TK1",
+                "company": "referencia",
+                "task": "optimize",
+                "version": "v1",
+                "opt_details": true,
+                "partial_rewards": true
+            },
+            "HDT1": {
+                "time": "2023-11-19T11:19:50.233Z",
+                "asset": "HDT1",
+                "company": "referencia",
+                "task": "optimize",
+                "version": "v1",
+                "opt_details": true,
+                "partial_rewards": true,
+                "optiConfig": {
+                    "rewards": {
+                        "Flocculant Dilution Ratio | Setpoint": {
+                            "function": "RatioReward",
+                            "setpoint": 8,
+                            "weight": 0,
+                            "width": 1
+                        },
+                        "Flocculant Dosage | Setpoint": {
+                            "function": "DosageReward",
+                            "setpoint": 12,
+                            "weight": 0
+                        },
+                        "Underflow Percent Solids | Max Mean": {
+                            "function": "MeanReward",
+                            "field": "Underflow Percent Solids",
+                            "maximize": true,
+                            "weight": 1,
+                            "power": 1
+                        },
+                        "Underflow Percent Solids | Regressed Variance": {
+                            "function": "RegressedVarianceReward",
+                            "field": "Underflow Percent Solids",
+                            "weight": 100
+                        },
+                        "Clear Water Height | Max Mean": {
+                            "function": "MeanReward",
+                            "field": "Clear Water Height",
+                            "maximize": true,
+                            "weight": 0.5,
+                            "power": 0.8
+                        },
+                        "Flocculant Flow Rate | Min Mean": {
+                            "function": "MeanReward",
+                            "field": "Flocculant Flow Rate",
+                            "maximize": false,
+                            "weight": 0,
+                            "power": 1
+                        },
+                        "Rake Torque | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Rake Torque",
+                            "maximum": 30,
+                            "minimum": 28,
+                            "weight": 0,
+                            "width": 5
+                        },
+                        "Bed Pressure | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Bed Pressure",
+                            "maximum": 132,
+                            "minimum": 128,
+                            "weight": 0,
+                            "width": 5
+                        },
+                        "Clear Water Height | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Clear Water Height",
+                            "maximum": 4,
+                            "minimum": 3.5,
+                            "weight": 0,
+                            "width": 1
+                        },
+                        "Underflow Percent Solids | Band Reward": {
+                            "function": "BellBandReward",
+                            "field": "Underflow Percent Solids",
+                            "maximum": 67,
+                            "minimum": 64,
+                            "weight": 0,
+                            "width": 4
+                        },
+                        "Underflow Percent Solids | Min Variance": {
+                            "function": "VarianceReward",
+                            "field": "Underflow Percent Solids",
+                            "maximize": false,
+                            "weight": 0
+                        },
+                        "Underflow Flow Rate | Control Power Min Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Flow Rate",
+                            "weight": 0,
+                            "softLimit": 800,
+                            "hardLimit": 600,
+                            "power": 2
+                        },
+                        "Underflow Flow Rate | Control Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Flow Rate",
+                            "weight": 0,
+                            "softLimit": 1500,
+                            "hardLimit": 1700,
+                            "power": 2
+                        },
+                        "Flocculant Flow Rate | Control Power Min Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Flocculant Flow Rate",
+                            "weight": 0,
+                            "softLimit": 4,
+                            "hardLimit": 2,
+                            "power": 2
+                        },
+                        "Flocculant Flow Rate | Control Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Flocculant Flow Rate",
+                            "weight": 0,
+                            "softLimit": 10,
+                            "hardLimit": 12,
+                            "power": 2
+                        },
+                        "Mass Balance": {
+                            "function": "MassBalanceReward",
+                            "width": 200,
+                            "weight": 0
+                        },
+                        "Clear Water Height | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Clear Water Height",
+                            "weight": 1,
+                            "softLimit": 3.3,
+                            "hardLimit": 3,
+                            "power": 2
+                        },
+                        "Bed Pressure | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Bed Pressure",
+                            "weight": 1,
+                            "softLimit": 127,
+                            "hardLimit": 129,
+                            "power": 2
+                        },
+                        "Underflow Percent Solids | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Underflow Percent Solids",
+                            "weight": 1,
+                            "softLimit": 70,
+                            "hardLimit": 71,
+                            "power": 2
+                        },
+                        "Rake Torque | Power Max Constraint": {
+                            "function": "PowerConstraint",
+                            "field": "Rake Torque",
+                            "weight": 1,
+                            "softLimit": 33,
+                            "hardLimit": 35,
+                            "power": 2
+                        }
+                    },
+                    "limits": {
+                        "Flocculant Dilution Flow Rate": {
+                            "max": 120,
+                            "min": 20,
+                            "points": 0,
+                            "change": 3
+                        },
+                        "Underflow Flow Rate": {
+                            "max": 1750,
+                            "min": 600,
+                            "points": 7,
+                            "change": 20
+                        },
+                        "Flocculant Dose": {
+                            "max": 20,
+                            "min": 8,
+                            "points": 7,
+                            "change": 0.5
+                        },
+                        "Flocculant Flow Rate": {
+                            "max": 12,
+                            "min": 2,
+                            "points": 0,
+                            "change": 0.3
+                        }
+                    }
+                }
+            }
+        },
+        "err": null
+    }
+}
