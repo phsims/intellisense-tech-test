@@ -1,4 +1,5 @@
 # IntellisenseTechTest
+The apps are built in NX 
 The backend is a simple node/express app.
 The frontend is next with tailwind.
 
